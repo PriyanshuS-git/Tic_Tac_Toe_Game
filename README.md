@@ -1,4 +1,4 @@
-# **_Tic-Tac-Toe-Game** 
+# **Tic-Tac-Toe-Game** 
 This is a Tic Tac Toe game created by using C++
 
 ## Screenshots
