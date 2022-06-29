@@ -1,6 +1,9 @@
 # **Tic-Tac-Toe-Game** 
 This is a Tic Tac Toe game created by using C++
 
+![tic_tac_toe_demo](https://user-images.githubusercontent.com/100298305/176486398-307065df-828c-4a66-b223-81fa9fc192df.gif)
+
+
 ## Screenshots
 1. ![1Tic_Tac_Toe](https://user-images.githubusercontent.com/100298305/174650215-56c54b96-bc36-4566-95a2-879365924006.png)
 
